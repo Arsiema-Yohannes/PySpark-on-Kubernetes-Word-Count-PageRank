@@ -36,7 +36,10 @@ spark-submit --master spark://<spark-master-ip>:7077 \
 /data/my.jar /data/test.txt
 
 
-Acknowledgments
+### Acknowledgments
+
 Apache Spark
+
 Kubernetes
+
 Helm
